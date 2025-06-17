@@ -1,8 +1,6 @@
 <div align="center">
   <img src="./assets/header-banner.png" alt="Header Banner" width="100%">
   
-  <h1>Hi there, I'm <span style="color:#4285F4;">BjornHgn</span> 👋</h1>
-  
   [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BjornHgn.BjornHgn)](https://github.com/BjornHgn)
   [![GitHub followers](https://img.shields.io/github/followers/BjornHgn?label=Follow&style=social)](https://github.com/BjornHgn)
 </div>
