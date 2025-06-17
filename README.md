@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header-banner.png" alt="Header Banner" width="100%">
+  ![Header Banner](./assets/header-banner.png)
   
   <h1>Hi there, I'm <span style="color:#4285F4;">BjornHgn</span> 👋</h1>
   
