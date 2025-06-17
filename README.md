@@ -148,7 +148,8 @@ When I'm not coding, I enjoy:
 
 ### 🎧 Spotify Now Playing
 
-[![Spotify](https://novatorem-psi-eight.vercel.app/api/spotify)](https://open.spotify.com/user/kereghan)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kereghan&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kereghan&redirect=true)
+
 </div>
 
 <!-- NEW: Random Dev Quote -->
