@@ -161,7 +161,7 @@ SecureChat est une application de messagerie sécurisée utilisant le chiffremen
 ### [Culture Quiz Webapp](https://github.com/BjornHgn/dev_project)
 Culture Quiz Website est une application web interactive permettant aux utilisateurs de tester leurs connaissances en culture générale à travers des quiz. L'application offre des fonctionnalités avancées comme le mode multijoueur, la soumission de questions par les utilisateurs, et un système d'administration pour la modération du contenu.
 
-### [E-commerce website](https://github.com/BjornHgn/project-repo-3)
+### [E-commerce website](https://github.com/BjornHgn/symfony_project)
 Ce projet est un projet à titre éducatif dont le but est de créer un site web sur le thème de l'e-commerce en utilisant le langage de programmation PHP.
 Sur ce site, il est possible de se créer un compte, de se connecter et d'ajouter des articles dans son panier pour ensuite les acheter avec de l'argent fictif.
 Il est possible d'ajouter des articles en précisant sa description (taille, prix,nom, catégorie, image...).
