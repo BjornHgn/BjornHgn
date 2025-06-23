@@ -24,7 +24,7 @@ I enjoy building networking projects and exploring new technologies. When I'm no
 
 <!-- NEW: Fun Fact Generator -->
 <details open>
-  <summary>🎲 Click for a random fact about me</summary>
+  <summary>🎲 IT Jokes</summary>
   <br>
   <div id="random-fact">
     <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
