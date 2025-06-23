@@ -23,7 +23,7 @@ I enjoy building networking projects and exploring new technologies. When I'm no
 </details>
 
 <!-- NEW: Fun Fact Generator -->
-<details>
+<details open>
   <summary>🎲 Click for a random fact about me</summary>
   <br>
   <div id="random-fact">
