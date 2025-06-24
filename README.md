@@ -15,14 +15,12 @@ I enjoy building networking projects and exploring new technologies. When I'm no
   <summary>🔍 More about me</summary>
   <br>
 
-  <!-- Add more personal details here -->
   - 🔭 I'm currently working on: Proxmox cluster for Ansible deployement
   - 🌱 I'm currently learning: Proxmox/Ansible
   - 👯 I'm looking to collaborate on: Networking projects
   - 💬 Ask me about what you desire !
 </details>
 
-<!-- NEW: Fun Fact Generator -->
 <details open>
   <summary>🎲 IT Jokes</summary>
   <br>
@@ -97,27 +95,32 @@ I enjoy building networking projects and exploring new technologies. When I'm no
 <div align="center">
 
 ### Operating Systems
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Infrastructure & Monitoring
+
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ### Virtualization
+
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
 
 ### Development Tools
+
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Terminal
+
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -129,10 +132,6 @@ I enjoy building networking projects and exploring new technologies. When I'm no
 <img src="https://github-readme-stats.vercel.app/api?username=BjornHgn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BjornHgn&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BjornHgn&theme=tokyonight&hide_border=true" width="600"/>
 </div>
 
 <!-- NEW: GitHub Trophies -->
